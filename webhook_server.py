@@ -1,5 +1,5 @@
-import os
 """Módulo de webhook para o bot"""
+import os
 from flask import Flask, request, jsonify
 import threading
 import socket

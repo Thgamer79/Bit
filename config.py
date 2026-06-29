@@ -1,11 +1,14 @@
 """
-Configurações do Bot - Railway ready (lê de variáveis de ambiente)
+Configurações do Bot
 """
-import os
+
+# Adicionar ao arquivo config.py
 
 # ========================================
 # CONFIGURAÇÕES DE REVENDA
 # ========================================
+
+# Definições de preços e créditos
 RESELLER_CREDIT_PRICES = [
     {"credits": 5, "price": 35.00},
     {"credits": 10, "price": 50.00},
@@ -13,17 +16,22 @@ RESELLER_CREDIT_PRICES = [
     {"credits": 24, "price": 80.00},
     {"credits": 35, "price": 100.00},
     {"credits": 50, "price": 130.00}
+
 ]
 
-RESELLER_MIN_CREDITS = 1
-RESELLER_ENABLE_CUSTOM_MP = True
 
-BOT_USERNAME = os.environ.get("matheusvendas_bot", "rOxziN_bot")
+# Configurações gerais da revenda
+RESELLER_MIN_CREDITS = 1  # Mínimo de créditos necessários para adicionar dias
+RESELLER_ENABLE_CUSTOM_MP = True  # Permite que revendedores configurem seu próprio MP
+
+# Link de afiliado
+BOT_USERNAME = "rOxziN_bot"  # Username do bot para gerar links de afiliados
+
 
 # Token do Bot
-BOT_TOKEN = os.environ.get("8279961485:AAF8WOfozzyl_4MhrnL7hVsJL6oeGlm_u7Y", "")
+BOT_TOKEN = "8053253244:AAGflN9uTMD_cV4gU_oJ08EEFQj8_HyjTn4"
 
-# Configuração da API Claro
+# Configuração da API
 API_BASE_URL = "https://api.prezaofree.com.br/39dd54c0-9ea1-4708-a9c5-5120810b3b72"
 API_VERSION = "3.0.11"
 API_CHANNEL = "WEB"
@@ -31,34 +39,42 @@ API_ARTEMIS_CHANNEL_UUID = "cfree-b22d-4079-bca5-96359b6b1f57"
 API_ACCESS_TOKEN = "4e82abb4-2718-4d65-bcd4-c4e147c3404f"
 USER_AGENT = "Mozilla/5.0 (Linux; Android 14; SM-A04M) AppleWebKit/537.36"
 
+# IDs das Campanhas
+
+
+# IDs das Campanhas
+# IDs das Campanhas 
+
+# IDs das Campanhas
 CAMPAIGN_IDS = [
-    "2b25a088-84ea-11ef-9082-0e639a16be05",
-    "ce46818d-e31a-11ef-bb8e-0680334bb059",
-    "f9077545-165c-4184-825a-a57459c131dc",
-    "dcc45968-df87-403b-8c75-a8c021ec4c8c"
+    "2b25a088-84ea-11ef-9082-0e639a16be05",  # Desafios Web (zona)
+    "ce46818d-e31a-11ef-bb8e-0680334bb059",  # Manter ID original (possível zona)
+    "f9077545-165c-4184-825a-a57459c131dc",  # Manter ID original (possível zona)
+    "dcc45968-df87-403b-8c75-a8c021ec4c8c"   # Manter ID original (possível zona)
 ]
+
 
 # Configurações do Sistema
 MAX_THREADS = 15
 DAILY_LINK_LIMIT = False
 MAINTENANCE_MODE = False
-DB_FILE = os.environ.get("DB_FILE", "bot_data.db")
-USERS_FILE = os.environ.get("USERS_FILE", "users.json")
-STATS_FILE = os.environ.get("STATS_FILE", "stats.json")
+DB_FILE = 'bot_data.db'
+USERS_FILE = 'users.json'
+STATS_FILE = 'stats.json'
 
-# Automação
-AUTO_COLLECT_TIME = "5:30"
-AUTO_COLLECT_TIMEZONE = "America/Sao_Paulo"
+# Configurações de Automação
+AUTO_COLLECT_TIME = "5:30"  # Horário da coleta automática (HH:MM)
+AUTO_COLLECT_TIMEZONE = "America/Sao_Paulo"  # Fuso horário
 
-# Segurança
-ADMIN_PASSWORD = os.environ.get("ADMIN_PASSWORD", "15359Vs@")
+# Configurações de Segurança
+ADMIN_PASSWORD = "15359Vs@"
 MAX_LOGIN_ATTEMPTS = 5
-LOGIN_COOLDOWN = 300
-SESSION_TIMEOUT = 3600
-BUTTON_COOLDOWN = 2
-CAMPAIGN_COOLDOWN = 5
+LOGIN_COOLDOWN = 300  # segundos
+SESSION_TIMEOUT = 3600  # segundos
+BUTTON_COOLDOWN = 2  # segundos (anti-autoclick)
+CAMPAIGN_COOLDOWN = 5  # segundos entre campanhas
 
-# Menu
+# Configurações do Menu
 MENU_TYPES = {
     "main": [
         ["🚀 Começar Campanhas", "💎 Ver Moedas"],
@@ -76,14 +92,29 @@ MENU_TYPES = {
     "cancel": [["🚫 Cancelar"]]
 }
 
+# Configurações de Interface
 EMOJI_PACK = {
-    'success': '✅', 'error': '❌', 'loading': '🔄', 'coins': '💎',
-    'packages': '🎁', 'campaigns': '🚀', 'warning': '⚠️', 'stop': '🚫',
-    'back': '🔙', 'home': '🏠', 'login': '🔑', 'phone': '📱',
-    'message': '💌', 'robot': '🤖', 'fire': '🔥', 'celebration': '🎉',
-    'sad': '😔', 'chart': '📊'
+    'success': '✅',
+    'error': '❌',  
+    'loading': '🔄',
+    'coins': '💎',
+    'packages': '🎁',
+    'campaigns': '🚀',
+    'warning': '⚠️',
+    'stop': '🚫',
+    'back': '🔙',
+    'home': '🏠',
+    'login': '🔑',
+    'phone': '📱',
+    'message': '💌',
+    'robot': '🤖',
+    'fire': '🔥',
+    'celebration': '🎉',
+    'sad': '😔',
+    'chart': '📊'
 }
 
+# Mensagens personalizadas
 MESSAGES = {
     'welcome': '🎉 Bem-vindo ao bot da claro prezao!',
     'maintenance': '🛠 Bot em manutenção. Tente depois! 💤',
@@ -107,14 +138,17 @@ MESSAGES = {
     'proxy_not_changed': '⚠️ Não foi possível atualizar o IP do proxy. Mantendo o IP atual: {}'
 }
 
+# Configurações de Performance
 REQUEST_TIMEOUT = 20
 RETRY_ATTEMPTS = 1
-RETRY_DELAY = 5
+RETRY_DELAY = 5  # segundos
 
+# Configurações de Cache
 CACHE_ENABLED = True
-CACHE_TTL = 300
+CACHE_TTL = 300  # segundos
 CACHE_MAX_SIZE = 1000
 
+# Configurações de Logging
 LOG_LEVEL = 'INFO'
 LOG_FILE = 'bot.log'
 LOG_FORMAT = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
@@ -122,31 +156,45 @@ LOG_FORMAT = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 # ========================================
 # CONFIGURAÇÕES DE PAGAMENTO PIX
 # ========================================
-MERCADO_PAGO_ACCESS_TOKEN = os.environ.get("MERCADO_PAGO_ACCESS_TOKEN", "")
-PIX_PRICE = float(os.environ.get("PIX_PRICE", "20.00"))
-PIX_ACTUAL_PRICE = float(os.environ.get("PIX_ACTUAL_PRICE", "20.00"))
-PIX_VALIDITY_MINUTES = 15
-PIX_BUTTON_TEXT = "✅ Verificar"
-PIX_RENEWAL_MIN_DAYS = 7
 
-SUBSCRIPTION_DAYS = 30
-TRIAL_DAYS = 1
-SUBSCRIPTION_PAGING = 5
+# Mercado Pago
+MERCADO_PAGO_ACCESS_TOKEN = "APP_USR-5412847209423784-050615-afb9848bcbdd378a0edc6321dc648fb3-30033708"
+# Pagamento
+PIX_PRICE = 20.00  # Preço exibido na interface
+PIX_ACTUAL_PRICE = 20.00  # Valor real cobrado (para testes)
+PIX_VALIDITY_MINUTES = 15  # Validade do QR Code em minutos
+PIX_BUTTON_TEXT = "✅ Verificar"
+PIX_RENEWAL_MIN_DAYS = 7  # Dias mínimos para renovação antecipada
+
+# Assinatura
+SUBSCRIPTION_DAYS = 30  # Duração da assinatura em dias
+TRIAL_DAYS = 1  # Duração do período de teste em dias
+SUBSCRIPTION_PAGING = 5  # Número de pagamentos por página no histórico
 
 # ========================================
 # CONFIGURAÇÕES DE PROXY
 # ========================================
-PROXY_ENABLED = os.environ.get("PROXY_ENABLED", "true").lower() == "true"
-PROXY_HOST = os.environ.get("PROXY_HOST", "brd.superproxy.io")
-PROXY_PORT = int(os.environ.get("PROXY_PORT", "33335"))
-PROXY_USER = os.environ.get("PROXY_USER", "brd-customer-hl_637dc23c-zone-isp_proxy1-country-br")
-PROXY_PASS = os.environ.get("PROXY_PASS", "85g1r9d7u156")
+PROXY_ENABLED = True
+PROXY_HOST = "brd.superproxy.io"
+PROXY_PORT = 33335
+PROXY_USER = "brd-customer-hl_637dc23c-zone-isp_proxy1-country-br"
+PROXY_PASS = "85g1r9d7u156"
+
+#PROXY_HOST = "pr.lunaproxy.com"
+#PROXY_PORT = 32233
+#PROXY_USER = "user-roxzin_W6zvD"
+#PROXY_PASS = "15359Vs"
+
+
+
 PROXY_MAX_ATTEMPTS = 3
-PROXY_TIMEOUT = 10
+PROXY_TIMEOUT = 10  # Timeout para conexão com o proxy em segundos
 
 # ========================================
 # CONFIGURAÇÕES DAS OPERADORAS
 # ========================================
+
+# Configurações das operadoras disponíveis
 OPERATORS = {
     "claro": {
         "name": "Claro",
@@ -173,12 +221,14 @@ OPERATORS = {
     "tim": {
         "name": "TIM",
         "emoji": "🟡",
-        "api_base_url": "https://api.tim.com.br/endpoint",
+        "api_base_url": "https://api.tim.com.br/endpoint",  # Endpoint da TIM (será configurado na próxima conversa)
         "api_version": "3.0.11",
         "api_channel": "WEB",
-        "api_artemis_channel_uuid": "tim-channel-uuid",
-        "api_access_token": "tim-access-token"
+        "api_artemis_channel_uuid": "tim-channel-uuid",  # Será configurado
+        "api_access_token": "tim-access-token"  # Será configurado
     }
 }
 
+# Operadora padrão (Claro)
 DEFAULT_OPERATOR = "claro"
+
