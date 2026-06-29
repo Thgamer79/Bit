@@ -1,3 +1,4 @@
+import os
 """Módulo de webhook para o bot"""
 from flask import Flask, request, jsonify
 import threading
@@ -20,7 +21,7 @@ class WebhookServer:
         self.bot = bot_instance
         self.setup_routes()
         self.thread = None
-        self.port = 80
+        self.port = int(os.environ.get("PORT", 80))
         
     def setup_routes(self):
         @self.app.route('/webhook', methods=['POST'])
