@@ -1,0 +1,273 @@
+{
+    "5761539332": {
+        "phone_number": "16996418368",
+        "operator": "vivo",
+        "user_id": "5761539332",
+        "claro": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1MTY5OTE0NDA5MDEiLCJYLVdBTExFVC1JRCI6IjY2NDRiMWNjNTRmM2YiLCJleHAiOjE3NTk4NTUxNTAsImlhdCI6MTc1MjA3OTE1MCwiaXNzIjoiVDdWaGoxcXp6bmh5R1RGdHViUHgzQlNwQW0xcjJtajgiLCJzdWIiOiI1NTE2OTkxNDQwOTAxIn0.Hfh8ZFKwZBmJSTLZbrN3GugFScra85pR0YyNTcfuRUY",
+            "transaction_id": "dba44ec9-e901-4bcd-b974-b7cf8785c4f6#35340779",
+            "claro_user_id": "6644b1cc54f3f"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiIxNjk5NjQxODM2OCIsIlgtV0FMTEVULUlEIjoiNDcxNTYwZTQ0MDJhOCIsImV4cCI6MTc1OTg2MDI0OSwiaWF0IjoxNzUyMDg0MjQ5LCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6IjE2OTk2NDE4MzY4In0.Owli0Qqm7AOIUL1ltkM1smNekBBlgbnMADhq7KAdQn8",
+        "vivo": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiIxNjk5NjQxODM2OCIsIlgtV0FMTEVULUlEIjoiNDcxNTYwZTQ0MDJhOCIsImV4cCI6MTc1OTg2MDI0OSwiaWF0IjoxNzUyMDg0MjQ5LCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6IjE2OTk2NDE4MzY4In0.Owli0Qqm7AOIUL1ltkM1smNekBBlgbnMADhq7KAdQn8",
+            "transaction_id": null,
+            "wallet_id": "471560e4402a8"
+        }
+    },
+    "7241130376": {
+        "phone_number": "83996208474",
+        "operator": "tim",
+        "user_id": "7241130376",
+        "tim": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI4Mzk5NjIwODQ3NCIsIlgtV0FMTEVULUlEIjoiOWRmZTRlYzVkNTZkIiwiZXhwIjoxNzU5OTc0MTkwLCJpYXQiOjE3NTIxOTgxOTAsImlzcyI6IlBDR1JaMWoxbGZRcnhUMEc4YUp3b0oyYklBWDhBQVhaIiwic3ViIjoiODM5OTYyMDg0NzQifQ.2nSwH35tqoL9oO7HK0IxphMqX_FI9UhYz19LvD836n0",
+            "transaction_id": "",
+            "tim_user_id": "9dfe4ec5d56d"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI4Mzk5NjIwODQ3NCIsIlgtV0FMTEVULUlEIjoiOWRmZTRlYzVkNTZkIiwiZXhwIjoxNzU5OTc0MTkwLCJpYXQiOjE3NTIxOTgxOTAsImlzcyI6IlBDR1JaMWoxbGZRcnhUMEc4YUp3b0oyYklBWDhBQVhaIiwic3ViIjoiODM5OTYyMDg0NzQifQ.2nSwH35tqoL9oO7HK0IxphMqX_FI9UhYz19LvD836n0"
+    },
+    "7698617077": {
+        "phone_number": "43988505421",
+        "operator": "claro",
+        "user_id": "7698617077",
+        "claro": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1NDM5ODg1MDU0MjEiLCJYLVdBTExFVC1JRCI6IjZmYTcwYjdlY2ZmOGIiLCJleHAiOjE3NTk5NDg0OTUsImlhdCI6MTc1MjE3MjQ5NSwiaXNzIjoiVDdWaGoxcXp6bmh5R1RGdHViUHgzQlNwQW0xcjJtajgiLCJzdWIiOiI1NTQzOTg4NTA1NDIxIn0.fGcfovcm9OQ254MaQdrIHmFZYrEJQ5TbHe4TocWNkZ4",
+            "transaction_id": "f1dbd048-ef63-46b4-b16f-b8f54808f79f#86689611",
+            "claro_user_id": "6fa70b7ecff8b"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1NDM5ODg1MDU0MjEiLCJYLVdBTExFVC1JRCI6IjZmYTcwYjdlY2ZmOGIiLCJleHAiOjE3NTk5NDg0OTUsImlhdCI6MTc1MjE3MjQ5NSwiaXNzIjoiVDdWaGoxcXp6bmh5R1RGdHViUHgzQlNwQW0xcjJtajgiLCJzdWIiOiI1NTQzOTg4NTA1NDIxIn0.fGcfovcm9OQ254MaQdrIHmFZYrEJQ5TbHe4TocWNkZ4"
+    },
+    "1546914472": {
+        "phone_number": "12992090895",
+        "operator": "claro",
+        "user_id": "1546914472",
+        "claro": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1MTI5OTIwOTA4OTUiLCJYLVdBTExFVC1JRCI6IjJkNjdlOWRjNDMyZiIsImV4cCI6MTc1OTg2MDA1MiwiaWF0IjoxNzUyMDg0MDUyLCJpc3MiOiJUN1ZoajFxenpuaHlHVEZ0dWJQeDNCU3BBbTFyMm1qOCIsInN1YiI6IjU1MTI5OTIwOTA4OTUifQ.X3qzlTSqE8lhr7M4nv8U6Onj-Uz8B9IMNUqJIodvXk0",
+            "transaction_id": "05be04e6-62a0-4399-b473-b6ae4120e309#80500045",
+            "claro_user_id": "2d67e9dc432f"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1MTI5OTIwOTA4OTUiLCJYLVdBTExFVC1JRCI6IjJkNjdlOWRjNDMyZiIsImV4cCI6MTc1OTg2MDA1MiwiaWF0IjoxNzUyMDg0MDUyLCJpc3MiOiJUN1ZoajFxenpuaHlHVEZ0dWJQeDNCU3BBbTFyMm1qOCIsInN1YiI6IjU1MTI5OTIwOTA4OTUifQ.X3qzlTSqE8lhr7M4nv8U6Onj-Uz8B9IMNUqJIodvXk0",
+        "auto_collect_enabled": false
+    },
+    "7884908376": {
+        "phone_number": "81986094297",
+        "operator": "vivo",
+        "user_id": "7884908376",
+        "vivo": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI4MTk4NjA5NDI5NyIsIlgtV0FMTEVULUlEIjoiMTE5ZDFkNGJiOTg0OSIsImV4cCI6MTc1OTg3MjM3MywiaWF0IjoxNzUyMDk2MzczLCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6IjgxOTg2MDk0Mjk3In0.1UmjFOivRoPRGzEI89suUbnW6dzR4fyALJMktM4raAM",
+            "transaction_id": null,
+            "wallet_id": "119d1d4bb9849"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI4MTk4NjA5NDI5NyIsIlgtV0FMTEVULUlEIjoiMTE5ZDFkNGJiOTg0OSIsImV4cCI6MTc1OTg3MjM3MywiaWF0IjoxNzUyMDk2MzczLCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6IjgxOTg2MDk0Mjk3In0.1UmjFOivRoPRGzEI89suUbnW6dzR4fyALJMktM4raAM"
+    },
+    "1716193679": {
+        "phone_number": "22974020801",
+        "operator": "claro",
+        "user_id": "1716193679",
+        "claro": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1MjI5NzQwMjA4MDEiLCJYLVdBTExFVC1JRCI6IjY1ZTY4YTk1MjBhNmUiLCJleHAiOjE3NjA2OTcxMjAsImlhdCI6MTc1MjkyMTEyMCwiaXNzIjoiVDdWaGoxcXp6bmh5R1RGdHViUHgzQlNwQW0xcjJtajgiLCJzdWIiOiI1NTIyOTc0MDIwODAxIn0.DDfojcle9EvBRSCQ374maRdGYAkEyLwYI26dnh6j9Fg",
+            "transaction_id": "f760b5ba-aca2-41ef-8a76-26c7c2b3af7f#42445895",
+            "claro_user_id": "65e68a9520a6e"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1MjI5NzQwMjA4MDEiLCJYLVdBTExFVC1JRCI6IjY1ZTY4YTk1MjBhNmUiLCJleHAiOjE3NjA2OTcxMjAsImlhdCI6MTc1MjkyMTEyMCwiaXNzIjoiVDdWaGoxcXp6bmh5R1RGdHViUHgzQlNwQW0xcjJtajgiLCJzdWIiOiI1NTIyOTc0MDIwODAxIn0.DDfojcle9EvBRSCQ374maRdGYAkEyLwYI26dnh6j9Fg",
+        "vivo": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiIyMjk5ODM5NDIzMSIsIlgtV0FMTEVULUlEIjoiNTBmYjA2ZTE1YTZhOCIsImV4cCI6MTc2MDMyMDExOCwiaWF0IjoxNzUyNTQ0MTE4LCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6IjIyOTk4Mzk0MjMxIn0.6s2xGF7k68203rbCf6ywTenyUiJI26vPUunInv5EzxI",
+            "transaction_id": null,
+            "wallet_id": "50fb06e15a6a8"
+        },
+        "tim": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiIyMTk3OTU4Mjg2OCIsIlgtV0FMTEVULUlEIjoiNzRiOWEyNDYzNDQ3NyIsImV4cCI6MTc2MDY2MzE4NSwiaWF0IjoxNzUyODg3MTg1LCJpc3MiOiJQQ0dSWjFqMWxmUXJ4VDBHOGFKd29KMmJJQVg4QUFYWiIsInN1YiI6IjIxOTc5NTgyODY4In0.PbzXxSL3cbkQxT54j-wgj_A9DVkkBtyq4WNBN73Of6s",
+            "transaction_id": "",
+            "tim_user_id": "74b9a24634477"
+        }
+    },
+    "6078369996": {
+        "phone_number": "21965658200",
+        "operator": "tim",
+        "user_id": "6078369996",
+        "tim": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiIyMTk2NTY1ODIwMCIsIlgtV0FMTEVULUlEIjoiMTA0MzFmYjVhMmNiNyIsImV4cCI6MTc1OTg3MzEyMSwiaWF0IjoxNzUyMDk3MTIxLCJpc3MiOiJQQ0dSWjFqMWxmUXJ4VDBHOGFKd29KMmJJQVg4QUFYWiIsInN1YiI6IjIxOTY1NjU4MjAwIn0.0nJi4ak3qfjzMRO8sTJLuPmcPjnC8Qv7w_0nBHcLP4M",
+            "transaction_id": "",
+            "tim_user_id": "10431fb5a2cb7"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiIyMTk2NTY1ODIwMCIsIlgtV0FMTEVULUlEIjoiMTA0MzFmYjVhMmNiNyIsImV4cCI6MTc1OTg3MzEyMSwiaWF0IjoxNzUyMDk3MTIxLCJpc3MiOiJQQ0dSWjFqMWxmUXJ4VDBHOGFKd29KMmJJQVg4QUFYWiIsInN1YiI6IjIxOTY1NjU4MjAwIn0.0nJi4ak3qfjzMRO8sTJLuPmcPjnC8Qv7w_0nBHcLP4M"
+    },
+    "2018629209": {
+        "phone_number": "21996698254",
+        "operator": "vivo",
+        "user_id": "2018629209",
+        "vivo": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiIyMTk5NjY5ODI1NCIsIlgtV0FMTEVULUlEIjoiMjFiZmY4NzVjM2UxZCIsImV4cCI6MTc2MDAxODk5NSwiaWF0IjoxNzUyMjQyOTk1LCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6IjIxOTk2Njk4MjU0In0._S3Z8yCNvOvaF0KZ51BczaRmyRnnWYgZjHfnd-XRcq4",
+            "transaction_id": null,
+            "wallet_id": "21bff875c3e1d"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiIyMTk5NjY5ODI1NCIsIlgtV0FMTEVULUlEIjoiMjFiZmY4NzVjM2UxZCIsImV4cCI6MTc2MDAxODk5NSwiaWF0IjoxNzUyMjQyOTk1LCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6IjIxOTk2Njk4MjU0In0._S3Z8yCNvOvaF0KZ51BczaRmyRnnWYgZjHfnd-XRcq4"
+    },
+    "5221546532": {
+        "phone_number": "94992533412",
+        "operator": "vivo",
+        "user_id": "5221546532",
+        "vivo": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI5NDk5MjUzMzQxMiIsIlgtV0FMTEVULUlEIjoiMWVkMzg2MmNlN2JiNCIsImV4cCI6MTc2MDAwODA2MywiaWF0IjoxNzUyMjMyMDYzLCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6Ijk0OTkyNTMzNDEyIn0.s2qpznjUwNSUqHQKpnpQcMTZK9RdKB92gfOUCKtBcLY",
+            "transaction_id": null,
+            "wallet_id": "1ed3862ce7bb4"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI5NDk5MjUzMzQxMiIsIlgtV0FMTEVULUlEIjoiMWVkMzg2MmNlN2JiNCIsImV4cCI6MTc2MDAwODA2MywiaWF0IjoxNzUyMjMyMDYzLCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6Ijk0OTkyNTMzNDEyIn0.s2qpznjUwNSUqHQKpnpQcMTZK9RdKB92gfOUCKtBcLY"
+    },
+    "7267367617": {
+        "phone_number": "97984224391",
+        "operator": "claro",
+        "user_id": "7267367617",
+        "tim": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI5Mjk4MTU3MzE5NCIsIlgtV0FMTEVULUlEIjoiMWE0MzAwM2Y3NjMiLCJleHAiOjE3NTk5MDMyNDEsImlhdCI6MTc1MjEyNzI0MSwiaXNzIjoiUENHUloxajFsZlFyeFQwRzhhSndvSjJiSUFYOEFBWFoiLCJzdWIiOiI5Mjk4MTU3MzE5NCJ9.4Mpz_EbiCZa4cMl6iWtqAsFA7Svghm-shq87UQ4T6p0",
+            "transaction_id": "",
+            "tim_user_id": "1a43003f763"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1OTc5ODQyMjQzOTEiLCJYLVdBTExFVC1JRCI6Ijc1Y2E5ZTdjOGNjZjIiLCJleHAiOjE3NjAxMTcyNjQsImlhdCI6MTc1MjM0MTI2NCwiaXNzIjoiVDdWaGoxcXp6bmh5R1RGdHViUHgzQlNwQW0xcjJtajgiLCJzdWIiOiI1NTk3OTg0MjI0MzkxIn0.V2BM4hON_6NKmvifhcEyvsI0IGwMprDI8lOeFHg8wUs",
+        "claro": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1OTc5ODQyMjQzOTEiLCJYLVdBTExFVC1JRCI6Ijc1Y2E5ZTdjOGNjZjIiLCJleHAiOjE3NjAxMTcyNjQsImlhdCI6MTc1MjM0MTI2NCwiaXNzIjoiVDdWaGoxcXp6bmh5R1RGdHViUHgzQlNwQW0xcjJtajgiLCJzdWIiOiI1NTk3OTg0MjI0MzkxIn0.V2BM4hON_6NKmvifhcEyvsI0IGwMprDI8lOeFHg8wUs",
+            "transaction_id": "05be04e6-62a0-4399-b473-b6ae4120e309#93203265",
+            "claro_user_id": "75ca9e7c8ccf2"
+        }
+    },
+    "6188340104": {
+        "phone_number": "86988993725",
+        "operator": "vivo",
+        "user_id": "6188340104",
+        "vivo": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI4Njk4ODk5MzcyNSIsIlgtV0FMTEVULUlEIjoiMmFkMWEwYmUzMzVmMyIsImV4cCI6MTc1OTk4NDM1NiwiaWF0IjoxNzUyMjA4MzU2LCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6Ijg2OTg4OTkzNzI1In0.0SUrjjmZyZgpbiyMQ1153qky-cGMqlGoMjvLSSnbQSI",
+            "transaction_id": null,
+            "wallet_id": "2ad1a0be335f3"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI4Njk4ODk5MzcyNSIsIlgtV0FMTEVULUlEIjoiMmFkMWEwYmUzMzVmMyIsImV4cCI6MTc1OTk4NDM1NiwiaWF0IjoxNzUyMjA4MzU2LCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6Ijg2OTg4OTkzNzI1In0.0SUrjjmZyZgpbiyMQ1153qky-cGMqlGoMjvLSSnbQSI",
+        "auto_collect_enabled": true
+    },
+    "1782926757": {
+        "phone_number": "21959043192",
+        "operator": "tim",
+        "user_id": "1782926757",
+        "tim": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiIyMTk1OTA0MzE5MiIsIlgtV0FMTEVULUlEIjoiNGI0NjBiMWUxNzJhYSIsImV4cCI6MTc2MDIzNDgzMSwiaWF0IjoxNzUyNDU4ODMxLCJpc3MiOiJQQ0dSWjFqMWxmUXJ4VDBHOGFKd29KMmJJQVg4QUFYWiIsInN1YiI6IjIxOTU5MDQzMTkyIn0.bqKTCd8Ee7ep4k_6Dm7MaVUIrNBdTfwpDYbX07p8VpQ",
+            "transaction_id": "",
+            "tim_user_id": "4b460b1e172aa"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiIyMTk1OTA0MzE5MiIsIlgtV0FMTEVULUlEIjoiNGI0NjBiMWUxNzJhYSIsImV4cCI6MTc2MDIzNDgzMSwiaWF0IjoxNzUyNDU4ODMxLCJpc3MiOiJQQ0dSWjFqMWxmUXJ4VDBHOGFKd29KMmJJQVg4QUFYWiIsInN1YiI6IjIxOTU5MDQzMTkyIn0.bqKTCd8Ee7ep4k_6Dm7MaVUIrNBdTfwpDYbX07p8VpQ",
+        "auto_collect_enabled": true
+    },
+    "6608067058": {
+        "phone_number": "99984503755",
+        "operator": "claro",
+        "user_id": "6608067058",
+        "claro": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1OTk5ODQ1MDM3NTUiLCJYLVdBTExFVC1JRCI6ImRmM2FmMGMzYjlkIiwiZXhwIjoxNzYwODM2NDkwLCJpYXQiOjE3NTMwNjA0OTAsImlzcyI6IlQ3VmhqMXF6em5oeUdURnR1YlB4M0JTcEFtMXIybWo4Iiwic3ViIjoiNTU5OTk4NDUwMzc1NSJ9.r4tpnWKfCNpkF23q87WG--BFyxwJf9YWWHRiRsOQI6w",
+            "transaction_id": "77d134d2-0fb5-4cf2-82ce-f289ce47f8d1#39353151",
+            "claro_user_id": "df3af0c3b9d"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1OTk5ODQ1MDM3NTUiLCJYLVdBTExFVC1JRCI6ImRmM2FmMGMzYjlkIiwiZXhwIjoxNzYwODM2NDkwLCJpYXQiOjE3NTMwNjA0OTAsImlzcyI6IlQ3VmhqMXF6em5oeUdURnR1YlB4M0JTcEFtMXIybWo4Iiwic3ViIjoiNTU5OTk4NDUwMzc1NSJ9.r4tpnWKfCNpkF23q87WG--BFyxwJf9YWWHRiRsOQI6w",
+        "auto_collect_enabled": true,
+        "vivo": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI5OTk5MjAxMDM5NCIsIlgtV0FMTEVULUlEIjoiNTYwYzQyN2FiOWVlMiIsImV4cCI6MTc2MDgyMTg0MywiaWF0IjoxNzUzMDQ1ODQzLCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6Ijk5OTkyMDEwMzk0In0.-UHsgdpJcVbjJPSpy3IbFEH5xs37unHJubOSJFAIVfI",
+            "transaction_id": null,
+            "wallet_id": "560c427ab9ee2"
+        }
+    },
+    "6358630568": {
+        "phone_number": "21969685662",
+        "operator": "tim",
+        "user_id": "6358630568",
+        "tim": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiIyMTk2OTY4NTY2MiIsIlgtV0FMTEVULUlEIjoiNGM2OTA5MjA3YzIxOCIsImV4cCI6MTc1OTk1Mzk1OCwiaWF0IjoxNzUyMTc3OTU4LCJpc3MiOiJQQ0dSWjFqMWxmUXJ4VDBHOGFKd29KMmJJQVg4QUFYWiIsInN1YiI6IjIxOTY5Njg1NjYyIn0.Tj-jm8CayJWp5KwxMBSMzZUPdch7-Ehbuc0kXypel-w",
+            "transaction_id": "",
+            "tim_user_id": "4c6909207c218"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiIyMTk2OTY4NTY2MiIsIlgtV0FMTEVULUlEIjoiNGM2OTA5MjA3YzIxOCIsImV4cCI6MTc1OTk1Mzk1OCwiaWF0IjoxNzUyMTc3OTU4LCJpc3MiOiJQQ0dSWjFqMWxmUXJ4VDBHOGFKd29KMmJJQVg4QUFYWiIsInN1YiI6IjIxOTY5Njg1NjYyIn0.Tj-jm8CayJWp5KwxMBSMzZUPdch7-Ehbuc0kXypel-w"
+    },
+    "63152122": {
+        "phone_number": "67991949177",
+        "operator": "claro",
+        "user_id": "63152122",
+        "claro": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1Njc5OTE5NDkxNzciLCJYLVdBTExFVC1JRCI6IjNkMTEzZGY5OWI0MWEiLCJleHAiOjE3NTk5ODgzOTMsImlhdCI6MTc1MjIxMjM5MywiaXNzIjoiVDdWaGoxcXp6bmh5R1RGdHViUHgzQlNwQW0xcjJtajgiLCJzdWIiOiI1NTY3OTkxOTQ5MTc3In0.IA1vfDUKta-r8ObUhFpcR-fHZtRO7Lw5YPMJ-hv49Ak",
+            "transaction_id": "dba44ec9-e901-4bcd-b974-b7cf8785c4f6#41743367",
+            "claro_user_id": "3d113df99b41a"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1Njc5OTE5NDkxNzciLCJYLVdBTExFVC1JRCI6IjNkMTEzZGY5OWI0MWEiLCJleHAiOjE3NTk5ODgzOTMsImlhdCI6MTc1MjIxMjM5MywiaXNzIjoiVDdWaGoxcXp6bmh5R1RGdHViUHgzQlNwQW0xcjJtajgiLCJzdWIiOiI1NTY3OTkxOTQ5MTc3In0.IA1vfDUKta-r8ObUhFpcR-fHZtRO7Lw5YPMJ-hv49Ak"
+    },
+    "7006893991": {
+        "phone_number": "31995193718",
+        "operator": "vivo",
+        "user_id": "7006893991",
+        "vivo": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiIzMTk5NTE5MzcxOCIsIlgtV0FMTEVULUlEIjoiNjJiYWNjNjYzZmYyYiIsImV4cCI6MTc2MDAxOTY3NiwiaWF0IjoxNzUyMjQzNjc2LCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6IjMxOTk1MTkzNzE4In0.R8Y_R_1DNVkLxDJKG5T690TQVJaCL4pFbWpsvBw0J2A",
+            "transaction_id": null,
+            "wallet_id": "62bacc663ff2b"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiIzMTk5NTE5MzcxOCIsIlgtV0FMTEVULUlEIjoiNjJiYWNjNjYzZmYyYiIsImV4cCI6MTc2MDAxOTY3NiwiaWF0IjoxNzUyMjQzNjc2LCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6IjMxOTk1MTkzNzE4In0.R8Y_R_1DNVkLxDJKG5T690TQVJaCL4pFbWpsvBw0J2A"
+    },
+    "7510551154": {
+        "phone_number": "12992090895",
+        "operator": "claro",
+        "user_id": "7510551154",
+        "claro": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1MTI5OTIwOTA4OTUiLCJYLVdBTExFVC1JRCI6IjJkNjdlOWRjNDMyZiIsImV4cCI6MTc2MDI3OTc1NCwiaWF0IjoxNzUyNTAzNzU0LCJpc3MiOiJUN1ZoajFxenpuaHlHVEZ0dWJQeDNCU3BBbTFyMm1qOCIsInN1YiI6IjU1MTI5OTIwOTA4OTUifQ.YtLqecxhIrhKVQVPrz6MkgIzWiRdmRvhfGeW5mfiS70",
+            "transaction_id": "c6644b11-cd9a-4e98-b5c9-35e148a0bbd5#17925916",
+            "claro_user_id": "2d67e9dc432f"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1MTI5OTIwOTA4OTUiLCJYLVdBTExFVC1JRCI6IjJkNjdlOWRjNDMyZiIsImV4cCI6MTc2MDI3OTc1NCwiaWF0IjoxNzUyNTAzNzU0LCJpc3MiOiJUN1ZoajFxenpuaHlHVEZ0dWJQeDNCU3BBbTFyMm1qOCIsInN1YiI6IjU1MTI5OTIwOTA4OTUifQ.YtLqecxhIrhKVQVPrz6MkgIzWiRdmRvhfGeW5mfiS70"
+    },
+    "7639834980": {
+        "phone_number": "99985012023",
+        "operator": "claro",
+        "user_id": "7639834980",
+        "vivo": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI5OTk5MjAxMDM5NCIsIlgtV0FMTEVULUlEIjoiNTYwYzQyN2FiOWVlMiIsImV4cCI6MTc2MDgyMTUyMSwiaWF0IjoxNzUzMDQ1NTIxLCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6Ijk5OTkyMDEwMzk0In0.OCwzbKNi6yFtHz6g44OyOtH4_HUjds-KHKn6LaXU1uk",
+            "transaction_id": null,
+            "wallet_id": "560c427ab9ee2"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1OTk5ODUwMTIwMjMiLCJYLVdBTExFVC1JRCI6IjUyODkwZmUxNmQ3NDgiLCJleHAiOjE3NjA4MzcxNDEsImlhdCI6MTc1MzA2MTE0MSwiaXNzIjoiVDdWaGoxcXp6bmh5R1RGdHViUHgzQlNwQW0xcjJtajgiLCJzdWIiOiI1NTk5OTg1MDEyMDIzIn0.5s7X2D-A4C48L7OCiDnMP2CSpGzJvA8jnL90xjt1zaE",
+        "auto_collect_enabled": false,
+        "claro": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1OTk5ODUwMTIwMjMiLCJYLVdBTExFVC1JRCI6IjUyODkwZmUxNmQ3NDgiLCJleHAiOjE3NjA4MzcxNDEsImlhdCI6MTc1MzA2MTE0MSwiaXNzIjoiVDdWaGoxcXp6bmh5R1RGdHViUHgzQlNwQW0xcjJtajgiLCJzdWIiOiI1NTk5OTg1MDEyMDIzIn0.5s7X2D-A4C48L7OCiDnMP2CSpGzJvA8jnL90xjt1zaE",
+            "transaction_id": "77d134d2-0fb5-4cf2-82ce-f289ce47f8d1#39359099",
+            "claro_user_id": "52890fe16d748"
+        }
+    },
+    "7890574096": {
+        "phone_number": "81986094297",
+        "operator": "vivo",
+        "user_id": "7890574096",
+        "vivo": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI4MTk4NjA5NDI5NyIsIlgtV0FMTEVULUlEIjoiMTE5ZDFkNGJiOTg0OSIsImV4cCI6MTc2MDA4MzA0NywiaWF0IjoxNzUyMzA3MDQ3LCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6IjgxOTg2MDk0Mjk3In0.fqUVQBsJIRS7RO3POdAivYcWf9sI1zZCrFwa92ATm74",
+            "transaction_id": null,
+            "wallet_id": "119d1d4bb9849"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI4MTk4NjA5NDI5NyIsIlgtV0FMTEVULUlEIjoiMTE5ZDFkNGJiOTg0OSIsImV4cCI6MTc2MDA4MzA0NywiaWF0IjoxNzUyMzA3MDQ3LCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6IjgxOTg2MDk0Mjk3In0.fqUVQBsJIRS7RO3POdAivYcWf9sI1zZCrFwa92ATm74"
+    },
+    "7538682284": {
+        "phone_number": "86988993725",
+        "operator": "vivo",
+        "user_id": "7538682284",
+        "vivo": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI4Njk4ODk5MzcyNSIsIlgtV0FMTEVULUlEIjoiMmFkMWEwYmUzMzVmMyIsImV4cCI6MTc2MDA4NTkwMywiaWF0IjoxNzUyMzA5OTAzLCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6Ijg2OTg4OTkzNzI1In0.ytr3z9rgzIY5jOGz0Lg4nOtO6A9xMgWEwpeoWBGU65k",
+            "transaction_id": null,
+            "wallet_id": "2ad1a0be335f3"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI4Njk4ODk5MzcyNSIsIlgtV0FMTEVULUlEIjoiMmFkMWEwYmUzMzVmMyIsImV4cCI6MTc2MDA4NTkwMywiaWF0IjoxNzUyMzA5OTAzLCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6Ijg2OTg4OTkzNzI1In0.ytr3z9rgzIY5jOGz0Lg4nOtO6A9xMgWEwpeoWBGU65k"
+    },
+    "5821912537": {
+        "phone_number": "99984503755",
+        "operator": "claro",
+        "user_id": "5821912537",
+        "vivo": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJBTkRST0lEIiwiWC1UT0tFTi1WRVJTSU9OIjoiMS4wLjAiLCJYLVVTRVItSUQiOiI5OTk5MjAxMDM5NCIsIlgtV0FMTEVULUlEIjoiNTYwYzQyN2FiOWVlMiIsImV4cCI6MTc2MDc1NjQ1NCwiaWF0IjoxNzUyOTgwNDU0LCJpc3MiOiJjWTc4bjNoZXVreXdhNGh6UHU4WHhQcU5NWGhNQ0IyNCIsInN1YiI6Ijk5OTkyMDEwMzk0In0.poEqFIt9OGSmopV5jnw3DXJ3pj5LRXbwP-WYO_PnGIQ",
+            "transaction_id": null,
+            "wallet_id": "560c427ab9ee2"
+        },
+        "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1OTk5ODQ1MDM3NTUiLCJYLVdBTExFVC1JRCI6ImRmM2FmMGMzYjlkIiwiZXhwIjoxNzYwODQ1Mzk5LCJpYXQiOjE3NTMwNjkzOTksImlzcyI6IlQ3VmhqMXF6em5oeUdURnR1YlB4M0JTcEFtMXIybWo4Iiwic3ViIjoiNTU5OTk4NDUwMzc1NSJ9.rg2h31MAd45rARLzjNZxMeuTAPN5Mnnhq2U0Tqn6faE",
+        "claro": {
+            "authorization": "eyJhbGciOiJIUzI1NiJ9.eyJYLUNIQU5ORUwiOiJXRUIiLCJYLVRPS0VOLVZFUlNJT04iOiIxLjAuMCIsIlgtVVNFUi1JRCI6IjU1OTk5ODQ1MDM3NTUiLCJYLVdBTExFVC1JRCI6ImRmM2FmMGMzYjlkIiwiZXhwIjoxNzYwODQ1Mzk5LCJpYXQiOjE3NTMwNjkzOTksImlzcyI6IlQ3VmhqMXF6em5oeUdURnR1YlB4M0JTcEFtMXIybWo4Iiwic3ViIjoiNTU5OTk4NDUwMzc1NSJ9.rg2h31MAd45rARLzjNZxMeuTAPN5Mnnhq2U0Tqn6faE",
+            "transaction_id": "f1dbd048-ef63-46b4-b16f-b8f54808f79f#129977266",
+            "claro_user_id": "df3af0c3b9d"
+        }
+    }
+}
