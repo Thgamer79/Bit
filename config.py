@@ -25,11 +25,11 @@ RESELLER_MIN_CREDITS = 1  # Mínimo de créditos necessários para adicionar dia
 RESELLER_ENABLE_CUSTOM_MP = True  # Permite que revendedores configurem seu próprio MP
 
 # Link de afiliado
-BOT_USERNAME = "rOxziN_bot"  # Username do bot para gerar links de afiliados
+BOT_USERNAME = "matheusvendas_bot"  # Username do bot para gerar links de afiliados
 
 
 # Token do Bot
-BOT_TOKEN = "8053253244:AAGflN9uTMD_cV4gU_oJ08EEFQj8_HyjTn4"
+BOT_TOKEN = "8279961485:AAF8WOfozzyl_4MhrnL7hVsJL6oeGlm_u7Y"
 
 # Configuração da API
 API_BASE_URL = "https://api.prezaofree.com.br/39dd54c0-9ea1-4708-a9c5-5120810b3b72"
