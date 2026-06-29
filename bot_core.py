@@ -14,6 +14,8 @@ import requests
 from uuid import uuid4
 from revenda import RevendaModule
 import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning, module="urllib3")
+warnings.filterwarnings("ignore", category=DeprecationWarning, module="requests")
 import random
 import uuid
 warnings.filterwarnings('ignore', message='Unverified HTTPS request')
