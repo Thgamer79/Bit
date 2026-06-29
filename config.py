@@ -18,10 +18,10 @@ RESELLER_CREDIT_PRICES = [
 RESELLER_MIN_CREDITS = 1
 RESELLER_ENABLE_CUSTOM_MP = True
 
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "rOxziN_bot")
+BOT_USERNAME = os.environ.get("matheusvendas_bot", "rOxziN_bot")
 
 # Token do Bot
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("8279961485:AAF8WOfozzyl_4MhrnL7hVsJL6oeGlm_u7Y", "")
 
 # Configuração da API Claro
 API_BASE_URL = "https://api.prezaofree.com.br/39dd54c0-9ea1-4708-a9c5-5120810b3b72"
